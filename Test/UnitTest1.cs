@@ -49,13 +49,13 @@ namespace Test
             Assert.Equal(100, rectangle.Area());
         }
         //проверка методов Perimeter()
-        //[Fact]
-        //public void CheckPerimeterMethod_ShouldReturn20_Width10_Heaigh10()
-        //{
-        //    Rectangle rectangle = new Rectangle();
-        //    rectangle.Width = 10;
-        //    rectangle.Height = 10;
-        //    Assert.Equal(20, rectangle.Perimeter());
-        //}
+        [Fact]
+        public void CheckPerimeterMethod_ShouldReturn20_Width10_Heaigh10()
+        {
+            Rectangle rectangle = new Rectangle();
+            rectangle.Width = 10;
+            rectangle.Height = 10;
+            Assert.Equal(20, rectangle.Perimeter());
+        }
     }
 }
