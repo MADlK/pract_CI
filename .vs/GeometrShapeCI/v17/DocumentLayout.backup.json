@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Test\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\GeometrShapeCI\\Test\\UnitTest1.cs",
               "RelativeToolTip": "Test\\UnitTest1.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA5wC8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-22T10:22:18.928Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "GeometrShapeCI\\Triangle.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T10:21:30.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T10:21:30.643Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "GeometrShapeCI\\Rectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T10:21:04.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T10:21:04.873Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "GeometrShapeCI\\Shape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T10:19:39.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T10:19:39.458Z"
             }
           ]
         }

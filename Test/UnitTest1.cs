@@ -45,7 +45,7 @@ namespace Test
         {
             Rectangle rectangle = new Rectangle();
             rectangle.Width = 10;
-            rectangle.Height = 101;
+            rectangle.Height = 10;
             Assert.Equal(100, rectangle.Area());
         }
         //проверка методов Perimeter()
