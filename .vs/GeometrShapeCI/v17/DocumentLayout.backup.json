@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\GeometrShapeCI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65E8867D-0F33-4924-9248-B5C500D38400}|Test\\Test.csproj|c:\\users\\m20er\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\geometrshapeci\\test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E8867D-0F33-4924-9248-B5C500D38400}|Test\\Test.csproj|solutionrelative:test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478EAFEC-A605-4CE0-ADEE-7274B3AF2CB0}|GeometrShapeCI\\GeometrShapeCI.csproj|c:\\users\\m20er\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\geometrshapeci\\geometrshapeci\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478EAFEC-A605-4CE0-ADEE-7274B3AF2CB0}|GeometrShapeCI\\GeometrShapeCI.csproj|solutionrelative:geometrshapeci\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478EAFEC-A605-4CE0-ADEE-7274B3AF2CB0}|GeometrShapeCI\\GeometrShapeCI.csproj|c:\\users\\m20er\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\geometrshapeci\\geometrshapeci\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478EAFEC-A605-4CE0-ADEE-7274B3AF2CB0}|GeometrShapeCI\\GeometrShapeCI.csproj|solutionrelative:geometrshapeci\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478EAFEC-A605-4CE0-ADEE-7274B3AF2CB0}|GeometrShapeCI\\GeometrShapeCI.csproj|c:\\users\\m20er\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\geometrshapeci\\geometrshapeci\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478EAFEC-A605-4CE0-ADEE-7274B3AF2CB0}|GeometrShapeCI\\GeometrShapeCI.csproj|solutionrelative:geometrshapeci\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\GeometrShapeCI\\Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\GeometrShapeCI\\Test\\UnitTest1.cs",
+              "RelativeToolTip": "Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T10:22:18.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\GeometrShapeCI\\GeometrShapeCI\\Triangle.cs",
+              "RelativeDocumentMoniker": "GeometrShapeCI\\Triangle.cs",
+              "ToolTip": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\GeometrShapeCI\\GeometrShapeCI\\Triangle.cs",
+              "RelativeToolTip": "GeometrShapeCI\\Triangle.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T10:21:30.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\GeometrShapeCI\\GeometrShapeCI\\Rectangle.cs",
+              "RelativeDocumentMoniker": "GeometrShapeCI\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\GeometrShapeCI\\GeometrShapeCI\\Rectangle.cs",
+              "RelativeToolTip": "GeometrShapeCI\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T10:21:04.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\GeometrShapeCI\\GeometrShapeCI\\Shape.cs",
+              "RelativeDocumentMoniker": "GeometrShapeCI\\Shape.cs",
+              "ToolTip": "C:\\Users\\m20er\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\1\\GeometrShapeCI\\GeometrShapeCI\\Shape.cs",
+              "RelativeToolTip": "GeometrShapeCI\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T10:19:39.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

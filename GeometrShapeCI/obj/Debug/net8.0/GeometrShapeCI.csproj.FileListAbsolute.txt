@@ -1,0 +1,11 @@
+C:\Users\m20er\OneDrive\Рабочий стол\1\GeometrShapeCI\GeometrShapeCI\bin\Debug\net8.0\GeometrShapeCI.deps.json
+C:\Users\m20er\OneDrive\Рабочий стол\1\GeometrShapeCI\GeometrShapeCI\bin\Debug\net8.0\GeometrShapeCI.dll
+C:\Users\m20er\OneDrive\Рабочий стол\1\GeometrShapeCI\GeometrShapeCI\bin\Debug\net8.0\GeometrShapeCI.pdb
+C:\Users\m20er\OneDrive\Рабочий стол\1\GeometrShapeCI\GeometrShapeCI\obj\Debug\net8.0\GeometrShapeCI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m20er\OneDrive\Рабочий стол\1\GeometrShapeCI\GeometrShapeCI\obj\Debug\net8.0\GeometrShapeCI.AssemblyInfoInputs.cache
+C:\Users\m20er\OneDrive\Рабочий стол\1\GeometrShapeCI\GeometrShapeCI\obj\Debug\net8.0\GeometrShapeCI.AssemblyInfo.cs
+C:\Users\m20er\OneDrive\Рабочий стол\1\GeometrShapeCI\GeometrShapeCI\obj\Debug\net8.0\GeometrShapeCI.csproj.CoreCompileInputs.cache
+C:\Users\m20er\OneDrive\Рабочий стол\1\GeometrShapeCI\GeometrShapeCI\obj\Debug\net8.0\GeometrShapeCI.dll
+C:\Users\m20er\OneDrive\Рабочий стол\1\GeometrShapeCI\GeometrShapeCI\obj\Debug\net8.0\refint\GeometrShapeCI.dll
+C:\Users\m20er\OneDrive\Рабочий стол\1\GeometrShapeCI\GeometrShapeCI\obj\Debug\net8.0\GeometrShapeCI.pdb
+C:\Users\m20er\OneDrive\Рабочий стол\1\GeometrShapeCI\GeometrShapeCI\obj\Debug\net8.0\ref\GeometrShapeCI.dll
